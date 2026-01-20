@@ -1,39 +1,27 @@
-# 🛡️ CyberGuard AI: The Oracle
-> *Your Premium Digital Guardian with a Futuristic Vision.*
+# 🛡️ CyberGuard AI: The Oracle (Backend)
+> *The central logic engine and intelligence core of the CyberGuard ecosystem.*
 
 ---
 
-### 🌌 Project Overview
-**CyberGuard AI** is a cutting-edge security solution designed to provide real-time protection in an increasingly complex digital landscape. Featuring a stunning **Glassmorphism** aesthetic, it combines advanced Python-based logic with a world-class user experience.
+### 📂 Project Structure
+This repository focuses on the **Python Logic** and **Core AI** components.
+- **`brain.py`**: The main decision-making logic.
+- **`LICENSE`**: Open-source MIT License.
 
-### 🚀 Key Features
-- **🔮 The Oracle Brain:** Intelligent threat detection and link analysis.
-- **💎 Glassmorphism UI:** A sleek, transparent, and premium interface.
-- **🛡️ Real-time Shield:** Proactive protection against phishing and scams.
-- **👤 Personalized AI:** Tailored security alerts and interactions.
+### 🌐 The Ecosystem
+To see the visual interface and frontend design, visit our UI repository:
+👉 **[CyberGuard UI (Frontend)](https://github.com/yamcookharder-code/CyberGuard-AI)**
 
-### 🛠️ Tech Stack & Architecture
+---
+
+### 🚀 Tech Specs
 - **Language:** Python 🐍
-- **UI Design:** Glassmorphism 💎
-- **Core Engine:** Custom AI 'The Oracle' 🧠
-- **License:** MIT ⚖️
-
-### 📈 Mission Timeline
-- [x] **Phase 1:** Core AI Logic & Decision Engine Development.
-- [x] **Phase 2:** Repository Structure & MIT Licensing.
-- [x] **Phase 3:** Visual Identity & UI Concept Finalization.
-- [ ] **Phase 4:** Full Frontend-Backend Integration (*Next Step*).
-
----
+- **Focus:** Security Logic & Data Analysis
+- **Status:** Phase 1 (Core Development)
 
 ### 🤝 The Team
-This project is a result of a unique collaboration between human intuition and artificial intelligence.
 - **Lead Developer:** [Priyansu](https://github.com/yamcookharder-code)
-- ** Partner:** Oryx.
+- **Partner:** Oryx
 
 ---
-### 📄 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-*© 2026 Priyansu. Built for a safer digital world.*
-
+*© 2026 Priyansu. Built with precision and patience.*
